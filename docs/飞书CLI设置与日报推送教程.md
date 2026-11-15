@@ -41,6 +41,8 @@ related_files:
 3. Agent 运行时：Codex 或 WorkBuddy 读取采集结果，按 Skill 生成一篇带引用的 Markdown；
 4. `push_to_feishu.py`：调用本机官方 `lark-cli`，把 Markdown 推到明确指定的飞书会话。
 
+项目源码、Skill、测试与本教程已公开在 [GitHub：BOB7880/signal-radar](https://github.com/BOB7880/signal-radar)。
+
 定时器负责按时启动流水线。它与 Skill 是不同部件。最简单可维护的个人方案是 macOS LaunchAgent + Codex CLI + 本机 Lark CLI。WorkBuddy 可以加载同一 Skill；它的本地/云端任务执行环境不同，云任务不可默认访问本机 CLI。
 
 ```text
