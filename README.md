@@ -9,7 +9,7 @@
 - 公司：紫鲸 AI
 - 作者：半肥猫
 - 网站：[www.zjai.ink](https://www.zjai.ink)
-- 公众号：半肥猫 AI研习社
+- 公众号：半肥猫 AI研习社（二维码见文末）
 - 许可：MIT
 
 ## 快速开始
@@ -37,3 +37,7 @@ python3 -m py_compile scripts/*.py
 ## 项目作者
 
 紫鲸 AI · 半肥猫 · [www.zjai.ink](https://www.zjai.ink) · 微信公众号：半肥猫 AI研习社
+
+<img src="assets/wechat-qr-half-feimao.jpg" alt="半肥猫 AI研习社 公众号二维码" width="220" />
+
+扫码关注「半肥猫 AI研习社」。这套雷达的后续更新、踩坑记录和配套模板，先发在那里。
