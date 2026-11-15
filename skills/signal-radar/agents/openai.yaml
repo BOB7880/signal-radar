@@ -1,0 +1,7 @@
+interface:
+  display_name: "Signal Radar 信息决策雷达"
+  short_description: "筛选资讯、核验证据并给出可执行的小实验"
+  brand_color: "#2457A6"
+  default_prompt: "Use $signal-radar to review today's collected sources and draft an evidence-linked digest."
+policy:
+  allow_implicit_invocation: true

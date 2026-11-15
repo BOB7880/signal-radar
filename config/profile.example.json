@@ -1,0 +1,20 @@
+{
+  "name": "紫鲸 AI 信息决策雷达",
+  "project": "紫鲸 AI 内容中台",
+  "current_goals": [
+    "提升有效线索获取与销售转化",
+    "降低内容选题、生产和发布的时间成本",
+    "评估值得集成的开源 AI 项目"
+  ],
+  "interests": [
+    "AI 获客与 CRM",
+    "AI 内容生产与多平台发布",
+    "Agent、MCP、工作流与安全",
+    "编程效率与知识库/RAG"
+  ],
+  "exclude": ["只有营销宣传、没有可验证产物的项目"],
+  "max_digest_items": 5,
+  "weekly_review_minutes": 30,
+  "max_experiment_minutes": 90,
+  "delivery_language": "zh-CN"
+}

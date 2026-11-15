@@ -1,0 +1,18 @@
+{
+  "rss_feeds": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "tags": [
+        "AI systems",
+        "product"
+      ]
+    }
+  ],
+  "github_repositories": [
+    "Thysrael/Horizon",
+    "LearnPrompt/ai-news-radar"
+  ],
+  "request_timeout_seconds": 15,
+  "max_items_per_feed": 30
+}

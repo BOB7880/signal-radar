@@ -1,0 +1,11 @@
+config/profile.json
+.env
+.env.*
+config/sources.json
+reports/*
+!reports/.gitkeep
+var/**
+logs/**
+.DS_Store
+__pycache__/
+*.py[cod]
